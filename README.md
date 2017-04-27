@@ -2,6 +2,8 @@
 
 Arduino library and sample sketch for the <a href="http://www.embeddedadventures.com/as3935_lightning_sensor_module_mod-1016.html">AS3935 MOD-1016 Lightning Sensor</a>.
 
+Forked for use with the Arduino.cc create web IDE.
+
 ## Using the library ##
 The MOD-1016 lightning sensor can be interfaced with using I2C or SPI, using Arduino's Wire or SPI library.
 
