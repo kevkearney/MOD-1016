@@ -35,7 +35,7 @@ THE POSSIBILITY OF SUCH DAMAGE.
 #include "Arduino.h"
 #include "Wire.h"
 #include "SPI.h"
-#include "AS3935.h"
+#include "AS3935mod.h"
 
 volatile bool displayingFrequency;
 volatile sgn32 pulse = 0;
